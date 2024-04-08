@@ -81,7 +81,7 @@
 			<key>name</key>
 			<string>Delimiters</string>
 			<key>scope</key>
-			<string>punctuation.section, punctuation.separator, punctuation.accessor, punctuation.terminator, punctuation.definition.annotation, punctuation.definition.generic</string>
+			<string>punctuation.section, punctuation.separator, punctuation.terminator, punctuation.definition.annotation, punctuation.definition.generic</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -92,7 +92,7 @@
 			<key>name</key>
 			<string>Operators</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>keyword.operator, punctuation.accessor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
