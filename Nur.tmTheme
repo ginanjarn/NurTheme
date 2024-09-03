@@ -42,6 +42,8 @@
 				<string>#E8E8E8</string>
 				<key>selection</key>
 				<string>#E8E8E8</string>
+				<key>selectionForeground</key>
+				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
