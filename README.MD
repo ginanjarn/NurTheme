@@ -1,5 +1,5 @@
 # NUR
-Alternative color scheme for .tmTheme supported text editor, such TextMate, Sublime Text etc.
+Color scheme for .tmTheme supported text editor, such TextMate, Sublime Text etc.
 
 ## Sample in code
 
