@@ -42,8 +42,6 @@
 				<string>#E8E8E8</string>
 				<key>selection</key>
 				<string>#E8E8E8</string>
-				<key>selectionForeground</key>
-				<string>#4a4543</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,14 +118,14 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1294E0</string>
+				<string>#3971A6</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, meta.require, support.function</string>
+			<string>entity.name.function, meta.require, variable.function, support.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -197,6 +195,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#E0129B</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,13 +214,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Strings, Inherited Class</string>
+			<string>Inherited Class</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, meta.string</string>
+			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#3AA1A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Strings</string>
+			<key>scope</key>
+			<string>string, constant.other.symbol, punctuation.definition.string, meta.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,29 +242,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E01212</string>
+				<string>#C20404</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Floats</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>meta.number.float</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E01212</string>
+				<string>#C20404</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Boolean</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>constant.language.boolean</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E01212</string>
+				<string>#C20404</string>
 			</dict>
 		</dict>
 		<dict>
@@ -264,7 +275,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -319,7 +330,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -395,7 +406,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 				<key>fontStyle</key>
 				<string> underline italic</string>
 			</dict>
@@ -408,7 +419,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 				<key>fontStyle</key>
 				<string> underline italic</string>
 			</dict>
@@ -491,7 +502,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -502,7 +513,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -513,7 +524,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -524,7 +535,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E08712</string>
+				<string>#C26A06</string>
 			</dict>
 		</dict>
 		<dict>

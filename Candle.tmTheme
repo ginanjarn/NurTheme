@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#003D31</string>
+				<string>#003D2D</string>
 				<key>caret</key>
 				<string>#E1F0F0</string>
 				<key>foreground</key>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFABE6</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFABE6</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52EBFF</string>
+				<string>#12D6E0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,7 +194,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFABE6</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -212,13 +212,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Strings, Inherited Class</string>
+			<string>Inherited Class</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, meta.string</string>
+			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#12D6E0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Strings</string>
+			<key>scope</key>
+			<string>string, constant.other.symbol, punctuation.definition.string, meta.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -229,29 +240,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBAC8</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Floats</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>meta.number.float</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBAC8</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Boolean</string>
 			<key>scope</key>
-			<string>none</string>
+			<string>constant.language.boolean</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBAC8</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -262,7 +273,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -284,7 +295,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9CFF</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -295,7 +306,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9CFF</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -306,7 +317,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFABE6</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -317,7 +328,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -341,7 +352,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFABE6</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -393,7 +404,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 				<key>fontStyle</key>
 				<string> underline italic</string>
 			</dict>
@@ -406,7 +417,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 				<key>fontStyle</key>
 				<string> underline italic</string>
 			</dict>
@@ -478,7 +489,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D98FC6</string>
+				<string>#FFA3E8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -489,7 +500,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -500,7 +511,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -511,7 +522,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
@@ -522,7 +533,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFBF94</string>
+				<string>#F5BC93</string>
 			</dict>
 		</dict>
 		<dict>
