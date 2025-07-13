@@ -260,9 +260,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Boolean</string>
+			<string>Language Constants</string>
 			<key>scope</key>
-			<string>constant.language.boolean</string>
+			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
